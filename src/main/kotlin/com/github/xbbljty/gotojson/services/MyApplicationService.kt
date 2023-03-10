@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xbbljty.gotojson.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xbbljty.gotojson.MyBundle
 
 class MyApplicationService {
 
